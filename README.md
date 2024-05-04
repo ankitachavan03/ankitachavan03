@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 Once you are on your profile page, you can click on the "Edit profile" button located on the right side of your profile picture. From there, you can edit your personal information, bio, and other details that you want to change.
 
-Make sure to save your changes before leaving the page.java  full stack development course
+Make sure to save your changes before leaving the page.java  full-stack development course
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ..java.
@@ -18,3 +18,4 @@ Make sure to save your changes before leaving the page.java  full stack developm
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+        
